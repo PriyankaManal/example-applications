@@ -1,7 +1,7 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
-## Unreleased
+## [0.3.0] 2017-05-23
 ### Changed
  - PNDA-2700: Update spark streaming example to work on redhat.
 
